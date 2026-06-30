@@ -99,8 +99,8 @@
             'use strict';
 
             // ================= 配置区（请替换为你的真实信息）=================
-            const COZE_API_KEY = 'pat_EgURkCDea7qtD5p15w9hcJQIBpPlPvzVATICDVkNccyJiob9ckzqF2ezcolUcm6v';          // 你的 Coze API Key
-            const COZE_BOT_ID = '7656282947481731107';    // 你的 Bot ID
+            const COZE_API_KEY = 'pat_J2nXZJCUiyGGkVlmcN1VaHrIyrIzC2sBtSOUTm443R2KOfvTBPU5ST9MOSzBGPEJ';          // 你的 Coze API Key
+            const COZE_BOT_ID = '7657079963682308123';    // 你的 Bot ID
             const COZE_API_URL = 'https://api.coze.cn/open_api/v2/chat';
             // ============================================================
 
